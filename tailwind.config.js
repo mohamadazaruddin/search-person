@@ -24,6 +24,9 @@ module.exports = {
       "yellow-100": "rgb(255 237 213)",
       "blue-100": "#E5F4FF",
     },
+    boxShadow: {
+      "3xl": "2px 4px 16px rgba(0, 0, 0, 0.08)",
+    },
   },
   plugins: [],
 };

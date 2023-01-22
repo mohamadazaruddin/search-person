@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css_mods__":{"E:\\UI Traning\\New folder\\search-person\\app\\page":["E:\\UI Traning\\New folder\\search-person\\styles\\globals.css"]},"E:\\UI Traning\\New folder\\search-person\\app\\page.tsx":["E:\\UI Traning\\New folder\\search-person\\styles\\globals.css"]}
